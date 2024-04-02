@@ -30,7 +30,7 @@ Caso o perfil tenha mudado, ajudar o meu cliente a provar esta hipótese atravé
 
 Após analisar os dados, observei que o arquivo contém as seguintes colunas:
 
-ID: Identificador único do cliente.
+ID: Identificador único do cliente
 idade: Idade do cliente.
 renda: Renda do cliente.
 regiao: Região do cliente.
