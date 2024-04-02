@@ -31,8 +31,10 @@ Caso o perfil tenha mudado, ajudar o meu cliente a provar esta hipótese atravé
 Após analisar os dados, observei que o arquivo contém as seguintes colunas:
 
 ID: Identificador único do cliente
-idade: Idade do cliente.
-renda: Renda do cliente.
-regiao: Região do cliente.
-produto_mais_comprado: Produto mais comprado pelo cliente.
-pre_pandemia: Indicador se os dados são pré-pandemia (1) ou não (0).
+idade: Idade do cliente
+renda: Renda do cliente
+regiao: Região do cliente
+produto_mais_comprado: Produto mais comprado pelo cliente
+pre_pandemia: Indicador se os dados são pré-pandemia (1) ou não (0)
+
+
