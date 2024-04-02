@@ -1,7 +1,8 @@
-# mudancaperfilclientes
+## Mudança de perfil de clientes, será ?
+
 O perfil da minha empresa mudou depois de um evento, eu tenho os dados antes e depois do evento identificado na minha base de dados e  gostaria de personalizar meus anúncios. Para investir gostaria de uma prova estatística que confirme essa minha hipótese.
 
-## Para abordar este desafio, vou seguir os seguintes passos:
+# Para abordar este desafio, vou seguir os seguintes passos:
 
 1. Exploração dos dados:
 
@@ -17,11 +18,21 @@ O perfil da minha empresa mudou depois de um evento, eu tenho os dados antes e d
 
 3.1 - Determinar o tamanho da amostra necessário para conclusões com uma margem de erro específica e um nível de confiança dado.
 
-## Preciso saber:
+# Preciso saber:
 1. Isso aconteceu ? O perfil mudou ?
 2. Se mudou, quais são as diferenças ?
 3. A mudança é significativa ?
 
-## Meu objetivo: 
+# Meu objetivo: 
 Caso o perfil tenha mudado, ajudar o meu cliente a provar esta hipótese através de estatística  e ajudá-lo na decisão de investir em ajustes na Persolnalização de seus anúncios.
 
+# Como está estruturado meu arquivo:
+
+Após analisar os dados, observei que o arquivo contém as seguintes colunas:
+
+ID: Identificador único do cliente.
+idade: Idade do cliente.
+renda: Renda do cliente.
+regiao: Região do cliente.
+produto_mais_comprado: Produto mais comprado pelo cliente.
+pre_pandemia: Indicador se os dados são pré-pandemia (1) ou não (0).
